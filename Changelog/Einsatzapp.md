@@ -15,6 +15,3 @@
 - Alarmierungston gefixt
 - Minimale Zoomstufe festgelegt
 - Impressum/Datenschutz Links gefixt
-
-### Sonstiges
-- 
